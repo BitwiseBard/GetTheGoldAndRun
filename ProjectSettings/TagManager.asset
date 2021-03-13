@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - Lava
+  - Water
+  - GarlicStink
+  - Wedge
+  - Floor
+  - Stairs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1633752677
+    locked: 0
+  - name: Spikes
+    uniqueID: 4101767677
+    locked: 0
+  - name: Water
+    uniqueID: 61141761
+    locked: 0
+  - name: Lava
+    uniqueID: 3406349193
+    locked: 0
+  - name: Player
+    uniqueID: 805340719
+    locked: 0
+  - name: Enemies
+    uniqueID: 2360645609
+    locked: 0
+  - name: Treasure
+    uniqueID: 4219153735
+    locked: 0
+  - name: Items
+    uniqueID: 1100092193
+    locked: 0
+  - name: Boulder
+    uniqueID: 4089730261
+    locked: 0
+  - name: Wall
+    uniqueID: 570310405
+    locked: 0
+  - name: UI
+    uniqueID: 566135277
+    locked: 0
